@@ -93,6 +93,7 @@
     <Compile Include="Helper\BaseClass.cs" />
     <Compile Include="Hooks\IgniteHooks.cs" />
     <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Pages\QuoteAndBuyPage.cs" />
     <Compile Include="Pages\VehicleDetailsPage.cs" />
     <Compile Include="StepDefinition\QuoteSteps.cs" />
     <Compile Include="UnitTest1.cs" />
